@@ -15,9 +15,9 @@ title: Sebastian Gillings' Portfolio # This is what shows up in the tab of the b
 name: Sebastian Gilling Pedersen
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a passionate mechanical engineer with strong competencies in mechanical design, product development, and 3D modeling. With a degree from Aarhus University and experience in SolidWorks, prototype testing, and Design for Manufacturing, I thrive on developing innovative solutions that integrate advanced technology with functionality and reliability.
+
+I am motivated by working in cross-disciplinary teams and contributing to solutions that create real value. With an analytical and structured approach to engineering, combined with my curiosity and ability to optimize processes, I am ready to take the next step in my career and help develop the innovative products of the future.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
